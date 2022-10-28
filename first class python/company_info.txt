@@ -1,0 +1,5 @@
+company_name company_est company_emp
+abc 2005 1500
+def 1998 2000
+jef 2005 150
+bill 1800 8000
